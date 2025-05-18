@@ -23,17 +23,16 @@ Whether you're a:
 
 - ✅ **Case Study Driven** — Real examples of mobile apps, SaaS tools, and growth strategies
 - 🤖 **AI-First Development** — Use tools like ChatGPT, Copilot, V0, Cursor, and more
-- ⚡ **Starter Templates** — From auth flows to PM mini-games, speed up your builds
+- ⚡ **Starter Templates** — From SaaS to Mobile App, speed up your builds
 - 🌱 **Growth-Ready Playbooks** — Learn how to scale from MVP to users & revenue
-- 🧩 **Modular Components** — React/TypeScript/Tailwind UI templates to plug & play
-
+  
 ---
 
 ## 🌍 Join the Community
 
 We’re not just a repo—we’re a builder movement.
 
-- 💬 [Discord](https://discord.gg/your-link) – Share what you're building
+- 💬 [Discord](https://discord.gg/yc39e2vc) – Share what you're building
 - 🐦 [Twitter](https://twitter.com/productbuildersxyz) – Follow for updates
 - 📰 [Newsletter](https://productbuilders.xyz/#newsletter) – Get the latest tools & templates
 - 🧑‍💻 [Contribute](https://github.com/productbuilders/website/blob/main/CONTRIBUTING.md) – Add your story or tool
