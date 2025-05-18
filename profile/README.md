@@ -35,7 +35,7 @@ We’re not just a repo—we’re a builder movement.
 - 💬 [Discord](https://discord.gg/yc39e2vc) – Share what you're building
 - 🐦 [Twitter](https://twitter.com/productbuildersxyz) – Follow for updates
 - 📰 [Newsletter](https://productbuilders.xyz/#newsletter) – Get the latest tools & templates
-- 🧑‍💻 [Contribute](https://github.com/productbuilders/website/blob/main/CONTRIBUTING.md) – Add your story or tool
+- 🧑‍💻 [Contribute](https://productbuilders.xyz/contribute.html) – Add your story or tool
 
 ---
 
